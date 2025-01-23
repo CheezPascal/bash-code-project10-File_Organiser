@@ -1,4 +1,4 @@
-# bash-cpde-project10-File_Organiser
+# bash-code-project10-File_Organiser
 Making a file organizer 
 
 Here's a Bash script to organize a folder's contents by Year and Month based on file modification dates. 
